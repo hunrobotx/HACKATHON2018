@@ -1,0 +1,10 @@
+C:\Users\UQI\source\repos\VEriOkuma\VEriOkuma\bin\Debug\VEriOkuma.exe.config
+C:\Users\UQI\source\repos\VEriOkuma\VEriOkuma\bin\Debug\VEriOkuma.exe
+C:\Users\UQI\source\repos\VEriOkuma\VEriOkuma\bin\Debug\VEriOkuma.pdb
+C:\Users\UQI\source\repos\VEriOkuma\VEriOkuma\obj\Debug\VEriOkuma.csprojAssemblyReference.cache
+C:\Users\UQI\source\repos\VEriOkuma\VEriOkuma\obj\Debug\VEriOkuma.Form1.resources
+C:\Users\UQI\source\repos\VEriOkuma\VEriOkuma\obj\Debug\VEriOkuma.Properties.Resources.resources
+C:\Users\UQI\source\repos\VEriOkuma\VEriOkuma\obj\Debug\VEriOkuma.csproj.GenerateResource.cache
+C:\Users\UQI\source\repos\VEriOkuma\VEriOkuma\obj\Debug\VEriOkuma.csproj.CoreCompileInputs.cache
+C:\Users\UQI\source\repos\VEriOkuma\VEriOkuma\obj\Debug\VEriOkuma.exe
+C:\Users\UQI\source\repos\VEriOkuma\VEriOkuma\obj\Debug\VEriOkuma.pdb
